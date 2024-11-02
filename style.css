@@ -103,3 +103,11 @@ nav ul {
   border-width: 2px;
   margin: 10px 0%
 }
+
+.content_section .quote_container {
+  background-color: #E5E7EB;
+}
+
+.content_section .quote_container *{
+  background-color: #E5E7EB;
+}
