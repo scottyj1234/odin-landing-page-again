@@ -26,3 +26,14 @@ nav ul {
   display: flex;
   gap: 20px;
 }
+
+.hero_main_text {
+  font-size: 48px;
+  color: #F9FAF8;
+  font-weight: 900;
+}
+
+.hero_sub_text {
+  font-size: 18px;
+  color: #E5E7EB;
+}
