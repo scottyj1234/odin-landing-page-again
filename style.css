@@ -80,3 +80,10 @@ nav ul {
   padding: 25px 200px;
   margin: 0%
 }
+
+.content_section img {
+  border: #3882F6;
+  border-style: solid;
+  border-radius: 15px;
+  border-width: 2px;
+}
