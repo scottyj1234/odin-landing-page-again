@@ -28,13 +28,41 @@ nav ul {
   gap: 20px;
 }
 
+.hero_section {
+  display: flex;
+  margin: 0% 200px;
+  align-items: center;
+}
+
+.hero_left {
+  flex: 1;
+  margin-right: 20px
+}
+
+.hero_section img {
+  flex: 1;
+  text-align: center;
+}
+
 .hero_main_text {
   font-size: 48px;
+  line-height: 56px;
   color: #F9FAF8;
   font-weight: 900;
+  margin: 20px 0%
 }
 
 .hero_sub_text {
   font-size: 18px;
   color: #E5E7EB;
+}
+
+.hero_section button {
+  background-color: #3882F6;
+  color: #E5E7EB;
+  border: none;
+  border-radius: 5px;
+  width: 100px;
+  height: 30px;
+  font-weight: 700;
 }
