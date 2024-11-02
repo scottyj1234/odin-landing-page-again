@@ -66,3 +66,10 @@ nav ul {
   height: 30px;
   font-weight: 700;
 }
+
+.content_section {
+  background-color: white;
+}
+.content_section *{
+  background-color: white;
+}
