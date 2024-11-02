@@ -69,6 +69,7 @@ nav ul {
 
 .content_section {
   background-color: white;
+  padding-bottom: 1px;
 }
 
 .content_section *{
@@ -133,4 +134,42 @@ nav ul {
   align-self: flex-end;
   padding-right: 30px;
   margin: 25px 250px;
+}
+
+.subscribe_container {
+  background-color: #3882F6;
+  margin: 50px 200px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  border-radius: 15px;
+}
+
+.subscribe_container *{
+  background-color: #3882F6;
+  color: #F9FAF8
+}
+
+.text_container {
+  padding: 25px;
+}
+
+.subscribe_container .text_container p.header {
+  margin: 0%;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.subscribe_container .text_container p {
+  margin: 0%;
+  font-size: 18px;
+  color: #E5E7EB
+}
+
+.subscribe_container button {
+  border-radius: 5px;
+  border-color: white;
+  border-style: solid;
+  width: 100px;
+  height: 30px;
 }
