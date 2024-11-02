@@ -173,3 +173,9 @@ nav ul {
   width: 100px;
   height: 30px;
 }
+
+footer {
+  padding: 25px;
+  color: #F9FAF8;
+  text-align: center;
+}
