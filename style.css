@@ -85,6 +85,7 @@ nav ul {
   display: flex;
   justify-content: center;
   margin: 0% 200px;
+  padding-bottom: 75px;
 }
 
 .content_card {
@@ -110,4 +111,26 @@ nav ul {
 
 .content_section .quote_container *{
   background-color: #E5E7EB;
+  color: #1F2937
+}
+
+.quote_container {
+  display: flex;
+  flex-direction: column;
+}
+
+.quote_text {
+  font-size: 36px;
+  font-style: italic;
+  font-weight: lighter;
+  padding-top: 75px;
+  margin: 0% 250px;
+}
+
+.quote_source {
+  font-size: 18px;
+  font-weight: bold;
+  align-self: flex-end;
+  padding-right: 30px;
+  margin: 25px 250px;
 }
