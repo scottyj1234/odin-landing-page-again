@@ -69,7 +69,14 @@ nav ul {
 
 .content_section {
   background-color: white;
+  margin: 100px 200px
 }
+
 .content_section *{
   background-color: white;
+}
+
+.content_section h2 {
+  text-align: center;
+  margin: 100px 0%
 }
